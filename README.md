@@ -31,17 +31,19 @@ Android Build from inside `android` folder
 
 `
 ./gradlew clean
+`
+`
 ./gradlew installDebug
 `
 
 Gradle commads run from inside `android` folder
 
 `
-./gradlew tasks
-./gradlew tasks --all
+ ./gradlew tasks
+ ./gradlew tasks --all
 
-./gradlew projects
-./gradlew model
+ ./gradlew projects
+ ./gradlew model
 `
 
 Cheers
