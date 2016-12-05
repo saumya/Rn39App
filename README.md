@@ -44,4 +44,23 @@ Gradle commads run from inside `android` folder
 ./gradlew model
 ```
 
+### NodeJS and NPM settings
+
+[Permission settings reference](https://saumya.github.io/ray/articles/70/)
+
+The default location of `nodejs` and `node_modules` is at `/usr/lib`
+
+View permissions
+
+```
+ls -la /usr/lib/node_modules
+```
+
+Change permission to current user in this case it is setting as `iAmCurrent` :)
+
+```
+sudo chown -R iAmCurrent /usr/lib/
+```
+
+
 Cheers
