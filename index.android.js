@@ -20,15 +20,19 @@ export default class Rn39App extends Component {
           Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.android.js
+          Default buildToolsVersion is not working !
         </Text>
         <Text style={styles.instructions}>
           Double tap R on your keyboard to reload,{'\n'}
           Shake or press menu button for dev menu
         </Text>
-        <Text style={styles.instructions}>
-          buildToolsVersion "24.0.1"
-        </Text>
+        <View>
+          <Text style={styles.welcome}>buildToolsVersion "24"</Text>
+        </View>
+        <View>
+          <Text style={styles.welcome}>buildToolsVersion "24.0.1"</Text>
+        </View>
+
       </View>
     );
   }

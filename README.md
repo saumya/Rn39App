@@ -6,5 +6,6 @@ Well seems that
 `
 react-native run-android
 `
+does not compile. 
 
-does not compile. The must change is `buildToolsVersion "24.0.1"` instead of the default setting in the file `android/app/build.gradle`
+The must change is `buildToolsVersion "24.0.1"` instead of the default setting in the file `android/app/build.gradle`
