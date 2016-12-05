@@ -8,13 +8,13 @@ First try of ReactNative development on Ubuntu 64bit.
  - Make sure you have installed the 32 bit versions of the libraries
  - Here are some and mostly all
 
-[From official documents][https://developer.android.com/studio/install.html]
+[From official documents](https://developer.android.com/studio/install.html)
 
 `
 sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
 `
 
-[From my trial and run][https://github.com/facebook/react-native/issues/7320]
+[From my trial and run](https://github.com/facebook/react-native/issues/7320)
 `
 sudo apt-get install lib32stdc++6 lib32z1
 `
