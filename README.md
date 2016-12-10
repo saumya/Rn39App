@@ -1,4 +1,4 @@
-ReactNative 0.39 on Ubuntu Machine  Experiement
+ReactNative 0.39 on Ubuntu Machine  Experiment
 ====================
 
 First try of ReactNative development on Ubuntu 64bit.
