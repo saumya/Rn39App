@@ -65,4 +65,4 @@ sudo chown -R iAmCurrent /usr/lib/node_modules
 
 ### Change permission of `node_modules` but not the whole `lib`. If you change the permission of `lib`, **your linux OS will be at risk and maynot allow you to work** . So be careful.
 
-Cheers
+Cheers have fun
